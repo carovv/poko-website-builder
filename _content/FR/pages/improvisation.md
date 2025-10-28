@@ -5,6 +5,8 @@ createdAt: 2025-10-28T10:08:00.000Z
 uuid: 8f435460466a
 localizationKey: 3f542bec256e
 name: Improvisation
+eleventyNavigation:
+  order: 1
 ---
 # Improvisation théâtrale
 
