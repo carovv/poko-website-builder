@@ -32,6 +32,10 @@ typeScales:
 colors:
   - name: Black
     value: '#000001'
+  - name: Blue
+    value: '#4000d6'
+  - name: Turquoise
+    value: '#18c6c9'
 styleContexts:
   - name: main
     value: ctx
