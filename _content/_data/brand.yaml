@@ -35,7 +35,25 @@ colors:
   - name: Blue
     value: '#4000d6'
   - name: Turquoise
-    value: '#18c6c9'
+    value: '#d6f4f5'
+palettes:
+  - name: Tuquoise & co
+    text: Black
+    bg: Turquoise
+    border: ''
+    outline: Blue
+    text-decoration: ''
+    text--marker: ''
+    text-emphasis: Blue
+    text--selection: ''
+    bg--selection: ''
+    shadow: ''
+    caret: ''
+    column-rule: ''
+    fill: ''
+    stroke: ''
+    outline--focus: ''
+    advanced: null
 styleContexts:
   - name: main
     value: ctx
