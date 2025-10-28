@@ -6,7 +6,7 @@ uuid: f1897516dda4
 localizationKey: ae8aae277166
 name: Jeux
 eleventyNavigation:
-  order: 1
+  order: 2
 ---
 # Animation jeux de société
 
