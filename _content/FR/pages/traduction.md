@@ -10,6 +10,6 @@ eleventyNavigation:
 ---
 # Traduction
 
-Je n'ai pas choisi mes études supérieures pour rien. Traduire est un exercice qui me passionne. Si en plus cela touche à mes domaines de prédilection - les jeux, l'humain, les activités créatives ou encore l'enseignement - cela devient un immense plaisir. Je maîtrise l'anglais, l'allemand et le néerlandais en plus de ma langue maternelle, le français.
+Je n'ai pas choisi mes études supérieures pour rien. Traduire est un exercice qui me passionne. Si en plus les textes touchent à mes domaines de prédilection - les jeux, l'humain, les activités créatives ou encore l'enseignement - cela devient un immense plaisir. Je maîtrise l'anglais, l'allemand et le néerlandais en plus de ma langue maternelle, le français.
 
-Besoin d'aide pour traduire ou réviser des règles de jeux, postes ou documents divers? N'hésitez pas à me contacter!
+Besoin d'aide pour traduire ou réviser des règles de jeux, publications ou documents divers? N'hésitez pas à me contacter!
