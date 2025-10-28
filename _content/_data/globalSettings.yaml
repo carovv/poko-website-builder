@@ -1,0 +1,10 @@
+siteName: imagination
+productionUrl: https://poko-website-builder.pages.dev/
+languages:
+  - code: FR
+    name: Français
+    customUrlPrefix:
+      prefix: ''
+    status: published
+    isCmsDefault: false
+    isWebsiteDefault: false
