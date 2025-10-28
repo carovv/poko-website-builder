@@ -1,0 +1,34 @@
+ctxCssImport:
+  filename: ctx.css
+widthsContexts:
+  - name: main
+    max: 80rem
+    prose: 50rem
+fontStacksContexts:
+  - name: main
+    body:
+      native: handwritten
+    heading:
+      native: system-ui
+    code:
+      native: monospace-code
+customFontsImport:
+  - name: Orbitron
+    source:
+      type: fontsource
+      name: Orbitron
+      weights:
+        - '400'
+      styles:
+        - normal
+      subsets:
+        - latin
+typeScales:
+  - name: main
+    minFontSize: 18
+    maxFontSize: 20
+    minTypeScale: 1.2
+    maxTypeScale: 1.25
+styleContexts:
+  - name: main
+    value: ctx
