@@ -5,6 +5,9 @@ createdAt: 2025-10-28T13:55:00.000Z
 uuid: af44544038b1
 localizationKey: 705fd4e18171
 name: Spectacles
+eleventyNavigation:
+  parent: Improvisation
+  order: 2
 ---
 # Prochains spectacles
 
