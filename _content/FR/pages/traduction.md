@@ -5,7 +5,8 @@ createdAt: 2025-10-28T10:43:00.000Z
 uuid: 4fa5ae75d49d
 localizationKey: 5879f914d166
 name: Traduction
-vars: {}
+eleventyNavigation:
+  order: 1
 ---
 # Traduction
 
