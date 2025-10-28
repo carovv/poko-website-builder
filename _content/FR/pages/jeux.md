@@ -5,6 +5,8 @@ createdAt: 2025-10-28T10:42:00.000Z
 uuid: f1897516dda4
 localizationKey: ae8aae277166
 name: Jeux
+eleventyNavigation:
+  order: 1
 ---
 # Animation jeux de société
 
