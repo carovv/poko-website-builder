@@ -10,4 +10,6 @@ name: Test
 
 Quelques exemples d'affiches développées pour mes clients.
 
+{% image src="/_images/i-gc9kghz-x3.webp", width="500" %}
+
 {% section type="grid-fluid", vars={"columns":3,"gap":""}, blocks=[{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/magic-flute-enchantee.webp"},{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/music-bands-25-26.webp"},{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/affiche-concert-noel-minimaliste-rouge-vert.webp"}], advanced={} %}
