@@ -6,8 +6,7 @@ uuid: af44544038b1
 localizationKey: 705fd4e18171
 name: Spectacles
 eleventyNavigation:
-  parent: Improvisation
-  order: 2
+  order: 5
 ---
 # Prochains spectacles
 
