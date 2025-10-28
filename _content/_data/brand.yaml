@@ -29,6 +29,9 @@ typeScales:
     maxFontSize: 20
     minTypeScale: 1.2
     maxTypeScale: 1.25
+colors:
+  - name: Black
+    value: '#000001'
 styleContexts:
   - name: main
     value: ctx
