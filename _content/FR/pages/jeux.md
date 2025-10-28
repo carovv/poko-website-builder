@@ -8,4 +8,4 @@ name: Jeux
 ---
 # Animation jeux de société
 
-Ma maîtrise des langues (français, anglais, allemand et néerlandais) s'est avéré être assez utile pour animer sur les salons et événements de jeu.
+Ma passion du jeu, mon dynamisme, ma bienveillance, mon sens de l'improvisation et ma maîtrise des langues (français, anglais, allemand et néerlandais) sont des atouts pour les animations sur les salons et événements de jeux, les soirées enquête, les teambuildings et autres
