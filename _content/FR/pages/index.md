@@ -4,7 +4,9 @@ lang: FR
 createdAt: 2025-10-28T09:37:00.000Z
 uuid: ac8d7b54e0fe
 localizationKey: 8cbc673e4950
-name: Home
+name: index
+eleventyNavigation:
+  order: 0
 ---
 # Infos & contact
 
